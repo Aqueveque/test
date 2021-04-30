@@ -1,0 +1,5 @@
+ahora cargo un tercer documento al repo
+en archivo1 = 3 lineas
+en archivo2 = 4 lineas
+en archivo3 = 5 lineas
+el readme = 1 linea
